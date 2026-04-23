@@ -105,6 +105,10 @@ Thus, this project demonstrates a complete trading workflow including:
 It is designed to simulate real-world trading system behavior in a safe testnet environment.
 
 
+Evaluation Parameter: Logging of one MARKET and one LIMIT order along with 2 error handling cases 
+Below is a screenshot of the logs containing the aforementioned things (taken from my PC)
+<img width="1910" height="1126" alt="image" src="https://github.com/user-attachments/assets/33c405a5-a252-4432-a618-38a152a821ae" />
+
 
 
 
