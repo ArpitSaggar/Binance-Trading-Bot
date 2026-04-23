@@ -104,8 +104,6 @@ Thus, this project demonstrates a complete trading workflow including:
 
 It is designed to simulate real-world trading system behavior in a safe testnet environment.
 
-Thank you for reading till here,
-Arpit Saggar
 
 
 
